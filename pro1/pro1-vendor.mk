@@ -229,6 +229,7 @@ PRODUCT_COPY_FILES += \
     vendor/idealte/pro1/proprietary/lib64/com.qualcomm.qti.imscmservice@2.0.so:system/lib64/com.qualcomm.qti.imscmservice@2.0.so \
     vendor/idealte/pro1/proprietary/lib64/com.qualcomm.qti.imscmservice@2.1.so:system/lib64/com.qualcomm.qti.imscmservice@2.1.so \
     vendor/idealte/pro1/proprietary/lib64/extractors/libmmparser.so:system/lib64/extractors/libmmparser.so \
+    vendor/idealte/pro1/proprietary/lib64/fm_helium.so:system/lib64/fm_helium.so \
     vendor/idealte/pro1/proprietary/lib64/lib-imscamera.so:system/lib64/lib-imscamera.so \
     vendor/idealte/pro1/proprietary/lib64/lib-imsvideocodec.so:system/lib64/lib-imsvideocodec.so \
     vendor/idealte/pro1/proprietary/lib64/lib-imsvt.so:system/lib64/lib-imsvt.so \
@@ -245,6 +246,7 @@ PRODUCT_COPY_FILES += \
     vendor/idealte/pro1/proprietary/lib64/libdpmfdmgr.so:system/lib64/libdpmfdmgr.so \
     vendor/idealte/pro1/proprietary/lib64/libdpmframework.so:system/lib64/libdpmframework.so \
     vendor/idealte/pro1/proprietary/lib64/libdpmtcm.so:system/lib64/libdpmtcm.so \
+    vendor/idealte/pro1/proprietary/lib64/libfm-hci.so:system/lib64/libfm-hci.so \
     vendor/idealte/pro1/proprietary/lib64/libimscamera_jni.so:system/lib64/libimscamera_jni.so \
     vendor/idealte/pro1/proprietary/lib64/libimsmedia_jni.so:system/lib64/libimsmedia_jni.so \
     vendor/idealte/pro1/proprietary/vendor/lib64/libldacBT_abr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libldacBT_abr.so \
