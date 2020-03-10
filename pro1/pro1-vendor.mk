@@ -832,7 +832,7 @@ PRODUCT_COPY_FILES += \
     vendor/fxtec/pro1/proprietary/vendor/lib64/hw/blestech.fingerprint.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/blestech.fingerprint.default.so \
     vendor/fxtec/pro1/proprietary/vendor/lib64/hw/com.qualcomm.qti.ant@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.qualcomm.qti.ant@1.0-impl.so \
     vendor/fxtec/pro1/proprietary/vendor/lib64/hw/com.qualcomm.qti.bluetooth_audio@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.qualcomm.qti.bluetooth_audio@1.0-impl.so \
-    vendor/fxtec/pro1/proprietary/vendor/lib64/hw/fingerprint.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.default.so \
+    vendor/fxtec/pro1/proprietary/vendor/lib64/hw/fingerprint.msm8998.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.msm8998.so \
     vendor/fxtec/pro1/proprietary/vendor/lib64/hw/gatekeeper.msm8998.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.msm8998.so \
     vendor/fxtec/pro1/proprietary/vendor/lib64/hw/keystore.msm8998.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/keystore.msm8998.so \
     vendor/fxtec/pro1/proprietary/recovery/root/vendor/lib64/hw/keystore.msm8998.so:system/recovery/root/vendor/lib64/hw/keystore.msm8998.so \
